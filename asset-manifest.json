@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://earth4q1.github.io/csb-dit33/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://earth4q1.github.io/csb-dit33/static/js/main.aebb176b.chunk.js",
+    "main.js.map": "https://earth4q1.github.io/csb-dit33/static/js/main.aebb176b.chunk.js.map",
+    "runtime-main.js": "https://earth4q1.github.io/csb-dit33/static/js/runtime-main.29242f7b.js",
+    "runtime-main.js.map": "https://earth4q1.github.io/csb-dit33/static/js/runtime-main.29242f7b.js.map",
+    "static/js/2.f7f1784b.chunk.js": "https://earth4q1.github.io/csb-dit33/static/js/2.f7f1784b.chunk.js",
+    "static/js/2.f7f1784b.chunk.js.map": "https://earth4q1.github.io/csb-dit33/static/js/2.f7f1784b.chunk.js.map",
+    "index.html": "https://earth4q1.github.io/csb-dit33/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://earth4q1.github.io/csb-dit33/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f7f1784b.chunk.js.LICENSE.txt": "https://earth4q1.github.io/csb-dit33/static/js/2.f7f1784b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29242f7b.js",
+    "static/js/2.f7f1784b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.aebb176b.chunk.js"
+  ]
+}
